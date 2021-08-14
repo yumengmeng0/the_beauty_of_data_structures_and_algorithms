@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc2aaeab-205c-4be7-a84e-3bfd3564d6d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/《数据结构与算法之美》封面.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch03/Demo311.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch03/Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes/第03章-递归、排序、二分查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第03章-递归、排序、二分查找.md" afterDir="false" />
     </list>
@@ -86,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628924346792</updated>
       <workItem from="1628924350492" duration="4730000" />
-      <workItem from="1628947799950" duration="6005000" />
+      <workItem from="1628947799950" duration="6440000" />
     </task>
     <servers />
   </component>
