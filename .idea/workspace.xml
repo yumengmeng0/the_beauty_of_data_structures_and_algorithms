@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc2aaeab-205c-4be7-a84e-3bfd3564d6d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/BitMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes/第03章-递归、排序、二分查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第03章-递归、排序、二分查找.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第04章-哈希表、位图和哈希算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第04章-哈希表、位图和哈希算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第05章-树.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第05章-树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第06章-堆.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第06章-堆.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第07章-跳表、并查集、线段树和树状数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第07章-跳表、并查集、线段树和树状数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第08章-字符串匹配算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第08章-字符串匹配算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第10章-贪心、分治、回溯和动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第10章-贪心、分治、回溯和动态规划.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +89,10 @@
       <option name="presentableId" value="Default" />
       <updated>1628924346792</updated>
       <workItem from="1628924350492" duration="4730000" />
-      <workItem from="1628947799950" duration="6440000" />
+      <workItem from="1628947799950" duration="6495000" />
+      <workItem from="1628981624807" duration="10482000" />
+      <workItem from="1629027230102" duration="4002000" />
+      <workItem from="1629067541847" duration="2566000" />
     </task>
     <servers />
   </component>
@@ -91,9 +100,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1326" y="18" width="1425" height="1027" key="dock-window-1" timestamp="1628953882231">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="-196" y="49" width="1417" height="1000" maximized="true" key="dock-window-1" timestamp="1629067626669">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1326" y="18" width="1425" height="1027" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628953882231" />
+    <state x="-196" y="49" width="1417" height="1000" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629067626669" />
   </component>
 </project>
